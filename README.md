@@ -1,5 +1,5 @@
-# twiligth-erik-syntax theme
+# twilight-erik-syntax theme
 
-A short description of your theme.
+This is basically the textmate twillight syntax with a tiny bit of tweaking
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Screenshot](screenshot.png)

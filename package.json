@@ -1,13 +1,13 @@
 {
-  "name": "twiligth-erik-syntax",
+  "name": "twilight-erik-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "This is basically the textmate twillight syntax with a tiny bit of tweaking",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/erikkallen/twiligth-erik-syntax",
+  "repository": "https://github.com/erikkallen/twilight-erik-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
