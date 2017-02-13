@@ -1,7 +1,7 @@
 {
   "name": "twilight-erik-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "This is basically the textmate twillight syntax with a tiny bit of tweaking",
   "keywords": [
     "syntax",
